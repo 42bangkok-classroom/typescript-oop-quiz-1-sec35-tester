@@ -24,7 +24,7 @@
     "test:q07": "jest mirrored-rhombus.test.ts",
     "test:q08": "jest number-pattern.test.ts",
     "test:q09": "jest factorial.test.ts",
-    "test:q10": "jest count-char.test.ts",
+    "test:q10": "jest count-char.test.ts"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
