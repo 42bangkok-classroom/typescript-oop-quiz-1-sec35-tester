@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "quiz01: grade",
+      "run": "npm run test:q01",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz02: atm",
+      "run": "npm run test:q02",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz03: calc",
+      "run": "npm run test:q03",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz04: sum",
+      "run": "npm run test:q04",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz05: foobar",
+      "run": "npm run test:q05",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz06: xo",
+      "run": "npm run test:q06",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz07: mirrored rhombus",
+      "run": "npm run test:q07",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz08: number pattern",
+      "run": "npm run test:q08",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz09: factorial",
+      "run": "npm run test:q09",
+      "points": 1,
+      "timeout": 10
+    },
+    {
+      "name": "quiz10: count-char",
+      "run": "npm run test:q10",
+      "points": 1,
+      "timeout": 10
+    }
+  ]
+}

@@ -14,7 +14,17 @@
   "type": "commonjs",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:q01": "jest grade.test.ts",
+    "test:q02": "jest atm.test.ts",
+    "test:q03": "jest calc.test.ts",
+    "test:q04": "jest sum.test.ts",
+    "test:q05": "jest foobar.test.ts",
+    "test:q06": "jest xo.test.ts",
+    "test:q07": "jest mirrored-rhombus.test.ts",
+    "test:q08": "jest number-pattern.test.ts",
+    "test:q09": "jest factorial.test.ts",
+    "test:q10": "jest count-char.test.ts",
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
