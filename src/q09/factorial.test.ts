@@ -30,8 +30,8 @@ describe("Factorial Calculator CLI (integration)", () => {
     ["6", "720"],
   ])("N=%s → %s", (input, expected) => {
     const res = runFactorialCli(input);
-    // expect(res.stdout?.trim()).toBe(expected);
-    expect(Number(res.stdout)).toBe(Number(expected));
+    expect(res.stdout?.trim()).toBe(expected);
+    // expect(Number(res.stdout)).toBe(Number(expected));
   });
 
   // ❌ Invalid inputs
